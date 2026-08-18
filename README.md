@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0200-number-of-islands](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,16 +33,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
