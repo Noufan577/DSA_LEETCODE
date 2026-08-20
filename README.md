@@ -55,8 +55,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0133-clone-graph) |
+| [0424-longest-repeating-character-replacement](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0133-clone-graph) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
