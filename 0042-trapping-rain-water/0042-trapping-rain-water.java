@@ -1,77 +1,37 @@
 class Solution {
     public int trap(int[] height) {
-
-        int n = height.length;
-        if (n <= 1)
-            return 0;
-
         int l = 0;
+        int r = height.length - 1;
 
-        while (l < n && height[l] == 0)
-            l++;
+        int l_max = height[l];
+        int r_max = height[r];
 
-        if (l == n)    
-            return 0;
+        int water = 0;
 
-        int r = l;
+        while (l < r) {
 
-        int max_idx = l;   
-        for (int i = l; i < n; i++) {
-            if (height[i] >= height[max_idx])
-                max_idx = i;
-        }
+            if (l_max < r_max) {
 
-        int area = 0;
-        int max = height[l];
-
-        while (r < max_idx) {
-
-            while (r < max_idx && height[r] <= max)
-                r++;
-
-            if (r > max_idx)
-                break;
-
-            int base = r - l - 1;
-            area += height[l] * base;
-
-            l++;
-            while (l < r) {
-                area -= height[l];
                 l++;
-            }
 
-            max = height[r];
-        }
+                if (height[l] >= l_max) {
+                    l_max = height[l];
+                } else {
+                    water += l_max - height[l];
+                }
 
-        r = n - 1;
+            } else {
 
-        while (r > max_idx && height[r] == 0)
-            r--;
-
-        l = r;
-        max = height[r];
-
-        while (r > max_idx) {
-
-            while (r > max_idx && height[r] <= max)
                 r--;
 
-            if (r < max_idx)
-                break;
-
-            int base = l - r - 1;
-            area += height[l] * base;
-
-            l--;
-            while (l > r) {
-                area -= height[l];
-                l--;
+                if (height[r] >= r_max) {
+                    r_max = height[r];
+                } else {
+                    water += r_max - height[r];
+                }
             }
-
-            max = height[r];
         }
 
-        return area;
+        return water;
     }
 }
