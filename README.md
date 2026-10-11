@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0695-max-area-of-island) |
 | [0875-koko-eating-bananas](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Noufan577/DSA_LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Noufan577/DSA_LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
