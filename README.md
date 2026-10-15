@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Noufan577/DSA_LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Noufan577/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
